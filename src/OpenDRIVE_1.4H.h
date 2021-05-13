@@ -31,8 +31,8 @@
 // in the accompanying FLOSSE file.
 //
 
-#ifndef OPEN_DRIVE_1_4H_H
-#define OPEN_DRIVE_1_4H_H
+#ifndef SCHEMA_OPEN_DRIVE_1_4H_H
+#define SCHEMA_OPEN_DRIVE_1_4H_H
 
 #ifndef XSD_USE_CHAR
 #define XSD_USE_CHAR
@@ -15091,4 +15091,4 @@ OpenDRIVE_ (::xml_schema::dom::auto_ptr< ::xercesc::DOMDocument > d,
 //
 // End epilogue.
 
-#endif // OPEN_DRIVE_1_4H_H
+#endif // SCHEMA_OPEN_DRIVE_1_4H_H
